@@ -1,0 +1,2 @@
+# Kararlar
+Kararlar 
