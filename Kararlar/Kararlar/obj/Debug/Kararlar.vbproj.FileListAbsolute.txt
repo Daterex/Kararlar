@@ -1,0 +1,12 @@
+C:\Users\onder.DESKTOP-NUIGD6P\source\repos\Kararlar\Kararlar\obj\Debug\Kararlar.vbprojAssemblyReference.cache
+C:\Users\onder.DESKTOP-NUIGD6P\source\repos\Kararlar\Kararlar\obj\Debug\Kararlar.Form1.resources
+C:\Users\onder.DESKTOP-NUIGD6P\source\repos\Kararlar\Kararlar\obj\Debug\Kararlar.Resources.resources
+C:\Users\onder.DESKTOP-NUIGD6P\source\repos\Kararlar\Kararlar\obj\Debug\Kararlar.vbproj.GenerateResource.cache
+C:\Users\onder.DESKTOP-NUIGD6P\source\repos\Kararlar\Kararlar\obj\Debug\Kararlar.vbproj.CoreCompileInputs.cache
+C:\Users\onder.DESKTOP-NUIGD6P\source\repos\Kararlar\Kararlar\bin\Debug\Kararlar.exe.config
+C:\Users\onder.DESKTOP-NUIGD6P\source\repos\Kararlar\Kararlar\bin\Debug\Kararlar.exe
+C:\Users\onder.DESKTOP-NUIGD6P\source\repos\Kararlar\Kararlar\bin\Debug\Kararlar.pdb
+C:\Users\onder.DESKTOP-NUIGD6P\source\repos\Kararlar\Kararlar\bin\Debug\Kararlar.xml
+C:\Users\onder.DESKTOP-NUIGD6P\source\repos\Kararlar\Kararlar\obj\Debug\Kararlar.exe
+C:\Users\onder.DESKTOP-NUIGD6P\source\repos\Kararlar\Kararlar\obj\Debug\Kararlar.xml
+C:\Users\onder.DESKTOP-NUIGD6P\source\repos\Kararlar\Kararlar\obj\Debug\Kararlar.pdb
